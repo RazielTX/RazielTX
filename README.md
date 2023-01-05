@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @RazielTX
-- 👀 I’m interested in Web and Gaming development
-- 🌱 I’m currently learning Frontend technologies
+Hi!
 
+Thanks for visiting my profile!
 
-<!---
-RazielTX/RazielTX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a systems engineering student knowledgeable frontend and backent web technologies such as HTML, CSS, JavaScript, NodeJS, Express, MySQL, etc.
+
+You can check some of the projects below
